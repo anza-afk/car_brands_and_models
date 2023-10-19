@@ -1,5 +1,5 @@
 # JSON with cars brands and models
-Last update: 19/10/2023
+
 _____
 ## car_brands_and_models.json
 **JSON**, which contains all car brands and list of car models for each brand at the time of upload.
@@ -16,4 +16,7 @@ python manage.py loaddata <path_to_file>
 **NB!** **Before use You should replace 'assets' in JSON with your app name.**
 _____
 ## car_fixture_to_json.py
-Script that make classic JSON from Django fixture.
+Script that make classic JSON from Django fixture.   
+
+   
+*Last update: 19/10/2023*
