@@ -7,4 +7,4 @@ It can be loaded into your Django project with the command
 ```
 python manage.py loaddata <filename>
 ```
-Before use tho You should replace 'assets' in JSON with your app name.
+Before use You should replace 'assets' in JSON with your app name.
