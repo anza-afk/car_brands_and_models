@@ -1,4 +1,5 @@
 # JSON with cars brands and models
+Last update: 19/10/2023
 _____
 ## car_brands_and_models.json
 **JSON**, which contains all car brands and list of car models for each brand at the time of upload.
