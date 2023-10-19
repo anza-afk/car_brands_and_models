@@ -1,4 +1,4 @@
-# cars_brands_and_models
+# JSON with cars brands and models
 
 ### car_brands_and_models.json
 **JSON**, which contains all car brands and list of car models for each brand at the time of upload.
@@ -12,7 +12,7 @@ It can be loaded into your Django project with the command
 ```
 python manage.py loaddata <path_to_file>
 ```
-Before use You should replace 'assets' in JSON with your app name.
+### **NB!** Before use You should replace 'assets' in JSON with your app name.
 
 ### car_fixture_to_json.py
 Scrip that make classic json from django fixture.
