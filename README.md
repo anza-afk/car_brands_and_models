@@ -15,4 +15,4 @@ python manage.py loaddata <path_to_file>
 ### **NB!** Before use You should replace 'assets' in JSON with your app name.
 
 ### car_fixture_to_json.py
-Scrip that make classic json from django fixture.
+Script that make classic JSON from Django fixture.
