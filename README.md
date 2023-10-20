@@ -9,7 +9,7 @@ Django fixture with all car brands and models.
 
 **JSON**, which contains all car brands and car models at the time of upload.    
 Each brand has a **pk**, and each model, in addition to the **pk**, has a **pk** of the corresponding brand.    
-It can be loaded into your Django project with the command 
+It can be loaded into your Django project with the command:
 ```
 python manage.py loaddata <path_to_file>
 ```
